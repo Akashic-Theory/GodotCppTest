@@ -1,0 +1,8 @@
+[configuration]
+
+entry_symbol = "gameplay_library_init"
+
+[libraries]
+
+windows.debug.x86_64="bin/windows/testproj_d.dll"
+windows.release.x86_64="bin/windows/testproj.dll"
